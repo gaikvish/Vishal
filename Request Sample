@@ -1,0 +1,5 @@
+SampleWebAPI
+https://localhost:44354/api/sample/NameDetail
+Post Data:
+{"FirstName":"Vikram",
+"LastName":"Ghanvat"}
